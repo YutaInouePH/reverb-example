@@ -8,7 +8,7 @@ export default defineNuxtConfig({
     key: '',
     broadcaster: 'reverb', // available: reverb, pusher
     host: '',
-    port: ,
+    port: '',
     scheme: '', // available: http, https
     transports: ['ws', 'wss'],
     authentication: {
